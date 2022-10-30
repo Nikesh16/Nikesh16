@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikesh16&label=Profile%20views&color=0e75b6&style=flat" alt="nikesh16" /> </p>
 
-- 🔭 I’m currently working on [Social Site](https://github.com/Nikesh16/Social-Site-)
+- 🔭 I’m currently working on Web Portfolio. (Link will be updated soon)
 
 - 🌱 I’m currently learning **PHP, MYSQLI, JAVA,C, Javascript, NodeJs**
 
