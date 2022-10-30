@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikesh16](https://github.com/Nikesh16)
 
-- 💬 Ask me about **PHP, Mysqli**
+- 💬 Ask me about **Javascript, Postgresql**
 
 - 📫 How to reach me **https://telegram.com/Dude1433**
 
