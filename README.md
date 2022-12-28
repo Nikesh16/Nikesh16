@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on Web Portfolio. (Link will be updated soon)
 
-- 🌱 I’m currently learning **PHP, MYSQLI, JAVA,C, Javascript, NodeJs**
+- 🌱 I’m currently learning **JS, MYSQLI, Javascript, NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikesh16](https://github.com/Nikesh16)
 
-- 💬 Ask me about **Javascript, Postgresql**
+- 💬 Ask me about **Javascript, Postgresql, ReactJS**
 
 - 📫 How to reach me **https://telegram.com/Dude1433**
 
