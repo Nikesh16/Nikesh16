@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript, Postgresql, ReactJS**
 
-- 📫 How to reach me **https://telegram.com/mydudebro**
+- 📫 How to reach me **https://telegram.com/mrdudebro**
 
 - ⚡ Fun fact **I think I am funny.**
 
