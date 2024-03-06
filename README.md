@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikesh</h1>
-<h3 align="center">A passionate FrontEnd developer from Nepal</h3>
+<h3 align="center">A passionate FrontEnd developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikesh16&label=Profile%20views&color=0e75b6&style=flat" alt="nikesh16" /> </p>
 
